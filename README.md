@@ -14,7 +14,7 @@ This project is made in Html,Css and Javascript.
 - Run `index.html` file in the latest version of your browser
 
 ## Screenshot
-
+![screen-capture](https://user-images.githubusercontent.com/57098154/104089869-55a02f80-5298-11eb-897a-0f830a8f862f.gif)
 
 ## Contributing
   Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
