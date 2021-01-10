@@ -2,9 +2,9 @@
 Bored in this pandemic? Try playing this game :wink:
 
 ## Getting Started
-This project is made in Html,Css and Javascript.
+Rock Paper Scissor game using pure Html,CSS and Javascript.:heart:
 
-**Feel free to star and clone this repository** :wink:
+**Feel free to star and fork this repository** :wink:
 
 ## Prerequisites
 - Any code editor you are comfortable with (VSCode preferably)
